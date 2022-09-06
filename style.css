@@ -45,3 +45,11 @@ img{
     padding: 5px;
     margin-bottom:0;
 }
+.attribution{
+    text-align: center;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(120, 47, 183);
+}
